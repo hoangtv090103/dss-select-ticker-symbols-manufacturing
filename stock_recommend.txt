@@ -1,0 +1,39 @@
+Các mã chứng khoán nên đầu tư trong cụm 0: ['AAPL']
+Đặc điểm của cụm 0:
+        1y Target Est  Avg. Volume  ...  Return on Assets  Cluster
+count           1.00          1.0  ...              1.00      1.0
+mean          170.02   66485773.0  ...             19.57      0.0
+std              NaN          NaN  ...               NaN      NaN
+min           170.02   66485773.0  ...             19.57      0.0
+25%           170.02   66485773.0  ...             19.57      0.0
+50%           170.02   66485773.0  ...             19.57      0.0
+75%           170.02   66485773.0  ...             19.57      0.0
+max           170.02   66485773.0  ...             19.57      0.0
+
+[8 rows x 12 columns]
+Các mã chứng khoán nên đầu tư trong cụm 1: []
+Đặc điểm của cụm 1:
+        1y Target Est  Avg. Volume  ...  Return on Assets  Cluster
+count           1.00          1.0  ...              1.00      1.0
+mean           13.27   69678298.0  ...              1.87      1.0
+std              NaN          NaN  ...               NaN      NaN
+min            13.27   69678298.0  ...              1.87      1.0
+25%            13.27   69678298.0  ...              1.87      1.0
+50%            13.27   69678298.0  ...              1.87      1.0
+75%            13.27   69678298.0  ...              1.87      1.0
+max            13.27   69678298.0  ...              1.87      1.0
+
+[8 rows x 12 columns]
+Các mã chứng khoán nên đầu tư trong cụm 2: ['MMM']
+Đặc điểm của cụm 2:
+        1y Target Est  Avg. Volume  ...  Return on Assets  Cluster
+count           1.00          1.0  ...              1.00      1.0
+mean          119.75    3657162.0  ...              7.47      2.0
+std              NaN          NaN  ...               NaN      NaN
+min           119.75    3657162.0  ...              7.47      2.0
+25%           119.75    3657162.0  ...              7.47      2.0
+50%           119.75    3657162.0  ...              7.47      2.0
+75%           119.75    3657162.0  ...              7.47      2.0
+max           119.75    3657162.0  ...              7.47      2.0
+
+[8 rows x 12 columns]
